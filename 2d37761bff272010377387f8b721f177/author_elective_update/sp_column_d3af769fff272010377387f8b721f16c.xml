@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">0faf765fff272010377387f8b721f177</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 19:18:13</sys_created_on>
+        <sys_id>d3af769fff272010377387f8b721f16c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="SP Ziross" source="x_522504_sp_ziross">2d37761bff272010377387f8b721f177</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SP Ziross">2d37761bff272010377387f8b721f177</sys_scope>
+        <sys_update_name>sp_column_d3af769fff272010377387f8b721f16c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 19:18:13</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SP Ziross">2d37761bff272010377387f8b721f177</application>
+        <file_path/>
+        <instance_id>3db28e12dbc79b047d8cf22ebf9619fd</instance_id>
+        <instance_name>dev63661</instance_name>
+        <name>sp_column_d3af769fff272010377387f8b721f16c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">0faf765fff272010377387f8b721f177</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-21 19:18:13</sys_created_on><sys_id>d3af769fff272010377387f8b721f16c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="SP Ziross" source="x_522504_sp_ziross">2d37761bff272010377387f8b721f177</sys_package><sys_policy/><sys_scope display_value="SP Ziross">2d37761bff272010377387f8b721f177</sys_scope><sys_update_name>sp_column_d3af769fff272010377387f8b721f16c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-21 19:18:13</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1862310280</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>2537761bff272010377387f8b721f17a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 19:18:13</sys_created_on>
+        <sys_id>9baf769fff272010377387f8b721f16d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178f5de5aaa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 19:18:13</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d3af769fe6272010b5cce6bfa5a4f96d</update_guid>
+        <update_guid_history>d3af769fe6272010b5cce6bfa5a4f96d:-1862310280</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">3be24353ff672010377387f8b721f1db</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-21 19:32:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>cba7a2cbddc24b7689b93dfdd3967e61</sys_id>
+        <sys_metadata>d3af769fff272010377387f8b721f16c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="SP Ziross" source="x_522504_sp_ziross">2d37761bff272010377387f8b721f177</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SP Ziross">2d37761bff272010377387f8b721f177</sys_scope>
+        <sys_scope_delete display_value="">6bfd901d69934b4dadef8d7f07d22a91</sys_scope_delete>
+        <sys_update_name>sp_column_d3af769fff272010377387f8b721f16c</sys_update_name>
+        <sys_update_version display_value="sp_column_d3af769fff272010377387f8b721f16c">9baf769fff272010377387f8b721f16d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-21 19:32:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
